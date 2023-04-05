@@ -58,6 +58,7 @@ $(document).ready(function () {
   });
 });
 // pega a posição do menu em relação ao topo da página
+//
 var menuOffsetTop = document.getElementById('menu').offsetTop;
 
 // adiciona um ouvinte para o evento de rolagem da página
